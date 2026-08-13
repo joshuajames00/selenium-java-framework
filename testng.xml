@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium Java BDD Framework" verbose="1">
+    <test name="Automation Suite">
+        <classes>
+            <class name="com.portfolio.automation.runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>

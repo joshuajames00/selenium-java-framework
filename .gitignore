@@ -1,0 +1,41 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven build output
+target/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# OS
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+
+# Environment and secrets
+.env
+*.env.local
+*.env.production
+
+# Generated reports and artifacts
+allure-report/
+cucumber-reports/
+reports/
+
+# Screenshots generated during test execution
+screenshots/
+
+# Logs
+logs/
+*.log
+
+# WebDriverManager cache
+.wdm/

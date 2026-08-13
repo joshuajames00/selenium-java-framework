@@ -1,0 +1,15 @@
+{
+  "users": {
+    "validUser": {
+      "username": "tomsmith",
+      "password": "SuperSecretPassword!",
+      "description": "Standard user with full access to the secure area"
+    },
+    "invalidUser": {
+      "username": "invalid_user",
+      "password": "wrong_password",
+      "description": "Non-existent user for negative testing"
+    }
+  },
+  "notes": "Demo credentials for https://the-internet.herokuapp.com/login — publicly documented test data"
+}
